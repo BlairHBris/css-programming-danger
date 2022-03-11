@@ -1,0 +1,16 @@
+h1{
+    color: white;
+    background-color: purple;
+    font: bold;
+    padding: 24px;
+    font-size: 24px;
+}
+
+p{
+    max-width: 300px;
+    text-align: center;
+}
+
+#warning{
+    color: red;
+}
